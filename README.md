@@ -1,5 +1,7 @@
 # Terraform Example for Container Security
 
+> ***IMPORTANT:*** This example is now built in to [Playground One](https://github.com/mawinkler/playground-one) and not maintained anymore. Playground One supports the Vision One Container Security life-cycle orchestrated by Terraform.
+
 ## Introduction
 
 This repository provides infrastructure-as-code examples to automate the live-cycle of Trend Micro Container Security.

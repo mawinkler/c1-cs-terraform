@@ -95,7 +95,7 @@ Error from server: admission webhook "trendmicro-admission-controller.trendmicro
 ```
 
 ```sh
-./tmas scan --endpoint https://artifactscan.us-1.staging-cloudone.trendmicro.com registry:public.ecr.aws/g1k6g7f0/shell:latest
+./tmas scan registry:public.ecr.aws/g1k6g7f0/shell:latest
 ```
 
 ```
